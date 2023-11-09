@@ -1,6 +1,6 @@
 # angry-faces-prev-depressed-labcopy
 
-Repository containing the input files and scripts required for data analysis for the project investigating differential processing of angry face expressions in depressed vs non-depressed people. The output files are for reference, as they are generated using the files in the input and script folders. 
+Repository containing the input files and scripts required for data analysis for the paper investigating differential processing of angry face expressions in depressed vs non-depressed people. The output files are for reference, as they are generated using the files in the input and script folders. 
 
 input: 
 - beh: folder containing .txt files which are a record of the behavioural responses made by each participant
