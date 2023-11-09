@@ -8,7 +8,7 @@ input:
   - FaceScores.csv contains the Benton and Catell face scores for each participant, arranged by CCID
   - demog_genderDiscrimination.mat contains age, gender and various other demographic parameters for each participant
   - gender_discrim_timeSinceDepression.csv contains the time (in years) since depression diagnosis for depressed participants
-  - previously_depressed.csv contains a list of CCIDs of participants which have a prior history of depression
+  - previously_depressed.csv contains a list of CCIDs of participants who have a prior history of depression
 - motion: folder containing .txt files which are a record of the motion parameters
 - matrices: folder containing accuracy_model_matrix1.csv which is a matrix of model parameters for automatic HDDM model estimation
 - sdartel_GM_mask.nii which is the dartel grey matter mask from the task
