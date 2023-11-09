@@ -1,4 +1,4 @@
-# angry-faces-prev-depressed
+# angry-faces-prev-depressed-labcopy
 
 Repository containing the input files and scripts required for data analysis for the project investigating differential processing of angry face expressions in depressed vs non-depressed people. The output files are for reference, as they are generated using the files in the input and script folders. 
 
@@ -29,3 +29,4 @@ script:
 - script_10linearmodel.R - this script runs the linear model
 - script_11plotddm.R - this script plots the drift diffusion process for generation of one of the figures for the paper 
 
+(c) jaknag
