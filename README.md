@@ -17,6 +17,7 @@ The scripts make reference to inputs located in the following folders, which are
 - beh: folder containing .txt files which are a record of the behavioural responses made by each participant
 
 script: 
+- read_motion_param.m - this script analyses the frame-wise displacement of each participant in regard to head motion and lists participants with excessive head motion
 - script_01dataextract_outliers.m - this script extracts the behavioural data from 'beh' .txt files and excludes outliers
 - script_02demographics.m - this script analyses the demographics of the participants and prepares files for further analysis
 - script_03demographics.py - this script further analyses demographics and prepares for further analysis in python
